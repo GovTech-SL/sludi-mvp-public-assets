@@ -1,0 +1,12 @@
+images/favicon.ico
+-----------
+Preregistration UI
+DEV Service Catalogue Page
+
+images/icon.png
+--------
+DEV Service Catalogue Page
+
+images/apple-touch-icon.png
+--------------------
+Preregistration UI
